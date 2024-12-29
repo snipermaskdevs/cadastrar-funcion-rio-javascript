@@ -11,3 +11,5 @@ Departamento: Administração
 ## Buscar Funcionário
 Buscar por (nome/função/departamento): nome
 Digite o valor para buscar: victoria
+
+<h3>Copyright © Sniper Mask Dev</h3>
